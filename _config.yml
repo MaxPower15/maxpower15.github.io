@@ -16,6 +16,3 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maxpower15.github.io" # the base hostname & protocol for your site
 twitter_username: MaxSchnur
 github_username:  MaxPower15
-
-# Build settings
-markdown: redcarpet
