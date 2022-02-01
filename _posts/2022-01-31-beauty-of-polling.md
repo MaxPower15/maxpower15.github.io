@@ -1,5 +1,10 @@
-
-# The Beauty of Polling
+---
+layout: post
+title: The Beauty of Polling
+date: 2022-01-31 20:56:00 -0400
+tags: polling,webhooks
+author: Max
+---
 
 Consider this situation. You make an HTTP request to a web server to do something expensive. It could:
 
